@@ -1,0 +1,9 @@
+{
+  "Id": "Enemy weapons will also lead targets",
+  "DisplayName": "[Patch] Enemies Lead Targets",
+  "Author": "FLSoz",
+  "Version": "0.1.0",
+  "Enable": true,
+  "AssemblyName": "EnemiesTargetLeadPatch.dll",
+  "EntryMethod": "EnemiesTargetLeadPatch.IngressPoint.Main"
+}
