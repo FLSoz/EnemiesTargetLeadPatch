@@ -18,6 +18,7 @@ namespace EnemiesTargetLeadPatch
             try
             {
                 WeaponAimMod.src.WrappedDataHolder.cheatDisabled = true;
+                Console.WriteLine("SUCCESS - enable enemy target lead");
             }
             catch
             {
